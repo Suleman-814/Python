@@ -1,0 +1,85 @@
+# Introduction to Python Programming Language
+
+Python is a high-level, interpreted, and general-purpose programming language. It was created by Guido van Rossum and first released in 1991. 
+
+Python is known for its simple and readable syntax, making it an excellent choice for beginners as well as professional developers.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Who Invented Python?
+
+Python was invented by Guido van Rossum, a Dutch programmer. He started working on Python in the late 1980s and released the first version in 1991. His goal was to create a language that was easy to read and learn while still being powerful.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Why Learn Python?
+
+- Easy to learn and write
+- Used in many areas of software development
+- Huge community and learning resources
+- Cross-platform (works on Windows, Mac, and Linux)
+- Great for beginners and professionals
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+What is Python Used For?
+
+Python is a versatile language used in many fields, such as:
+
+1. Web development (using Flask, Django)
+2. Data science and analysis
+3. Machine learning and AI
+4. Automation and scripting
+5. Game development
+6. Cybersecurity
+7. Internet of Things (IoT)
+8. Desktop applications
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Key Features of Python
+
+- Interpreted language (no need to compile)
+- Easy-to-read syntax
+- Dynamically typed (no need to declare variable types)
+- Object-oriented programming support
+- Large standard library
+- Thousands of third-party libraries
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Basic Python Syntax Examples
+
+1. Printing to the screen:
+   print("Hello, Python!")
+
+2. Variables:
+   name = "Alice"
+   age = 25
+
+3. Conditional statements:
+   if age >= 18:
+       print("Adult")
+   else:
+       print("Minor")
+
+4. Loops:
+   for i in range(5):
+       print(i)
+
+5. Functions:
+   def greet(name):
+       print("Hello", name)
+
+   greet("Alice")
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Tools I Use
+
+- Code editor: VS Code or IDLE or Pycharm
+- Python version: Python 3.12.4
+  [To check python version you can use command: python --version]
+
+
