@@ -1,4 +1,4 @@
-# 🐍 Python Notes & Programs
+# Python Notes & Programs
 
 Welcome to this repository!
 
@@ -17,7 +17,7 @@ Python/
 
 ## 📖 Contents
 
-### 📝 Notes
+###  Notes
 - Introduction to Python
 - Python Data Types
 - Python Concepts
@@ -93,4 +93,4 @@ If you find this repository useful, consider giving it a **⭐ Star** on GitHub.
 
 ---
 
-**Happy Learning! 🚀🐍**
+**Happy Learning!**
