@@ -11,7 +11,7 @@ Python/
 │── About Python.txt          # Introduction to Python
 │── Basic Python Programs.py  # Basic Python programs
 │── Data Type.py              # Programs related to Python data types
-│── Data Types.txt            # Notes on Python data types
+│── Data Types.txt...         # Notes on Python data types
 │── README.md                 # Repository documentation
 ```
 
